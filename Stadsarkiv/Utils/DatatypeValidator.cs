@@ -8,22 +8,19 @@ namespace Stadsarkiv.Utils
     {
         public static bool Validate(string data, string type)
         {
-            //For brevity i am only handling common SQL types
-            if (type.ToLower().Contains("char") || type.ToLower().Contains("text"))
+            if (type.ToUpper().Contains("CHARACTER"))
             {
                 //If we were validating varchar lengths the logic would go here
                 return true;
             }
                 
-            switch (type.ToLower())
+            switch (type.ToUpper())
             {
-                case "int":
+                case "INTEGER":
                     return int.TryParse(data, out _);
-                case "decimal":
+                case "DECIMAL":
                     return decimal.TryParse(data, out _);
-                case "bool":
-                    return bool.TryParse(data, out _);
-                case "datetime":
+                case "DATE":
                     return DateTime.TryParse(data, out _);
                 default:
                     throw new ArgumentOutOfRangeException($"Unknown data type {type}");
