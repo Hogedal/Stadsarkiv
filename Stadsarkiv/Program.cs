@@ -6,7 +6,9 @@ namespace Stadsarkiv
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var type = Type.GetType("int");
+            Console.WriteLine(type.ToString());
+            Console.ReadLine();
         }
     }
 }

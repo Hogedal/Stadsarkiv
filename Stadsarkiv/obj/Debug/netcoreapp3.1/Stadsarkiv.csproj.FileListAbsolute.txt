@@ -1,0 +1,13 @@
+C:\Users\larsh\source\repos\Stadsarkiv\Stadsarkiv\bin\Debug\netcoreapp3.1\Stadsarkiv.exe
+C:\Users\larsh\source\repos\Stadsarkiv\Stadsarkiv\bin\Debug\netcoreapp3.1\Stadsarkiv.deps.json
+C:\Users\larsh\source\repos\Stadsarkiv\Stadsarkiv\bin\Debug\netcoreapp3.1\Stadsarkiv.runtimeconfig.json
+C:\Users\larsh\source\repos\Stadsarkiv\Stadsarkiv\bin\Debug\netcoreapp3.1\Stadsarkiv.runtimeconfig.dev.json
+C:\Users\larsh\source\repos\Stadsarkiv\Stadsarkiv\bin\Debug\netcoreapp3.1\Stadsarkiv.dll
+C:\Users\larsh\source\repos\Stadsarkiv\Stadsarkiv\bin\Debug\netcoreapp3.1\Stadsarkiv.pdb
+C:\Users\larsh\source\repos\Stadsarkiv\Stadsarkiv\obj\Debug\netcoreapp3.1\Stadsarkiv.csprojAssemblyReference.cache
+C:\Users\larsh\source\repos\Stadsarkiv\Stadsarkiv\obj\Debug\netcoreapp3.1\Stadsarkiv.AssemblyInfoInputs.cache
+C:\Users\larsh\source\repos\Stadsarkiv\Stadsarkiv\obj\Debug\netcoreapp3.1\Stadsarkiv.AssemblyInfo.cs
+C:\Users\larsh\source\repos\Stadsarkiv\Stadsarkiv\obj\Debug\netcoreapp3.1\Stadsarkiv.csproj.CoreCompileInputs.cache
+C:\Users\larsh\source\repos\Stadsarkiv\Stadsarkiv\obj\Debug\netcoreapp3.1\Stadsarkiv.dll
+C:\Users\larsh\source\repos\Stadsarkiv\Stadsarkiv\obj\Debug\netcoreapp3.1\Stadsarkiv.pdb
+C:\Users\larsh\source\repos\Stadsarkiv\Stadsarkiv\obj\Debug\netcoreapp3.1\Stadsarkiv.genruntimeconfig.cache
